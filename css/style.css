@@ -1,0 +1,326 @@
+.project-polylingual-color {
+    background-color: #5cbb2d !important;
+}
+
+.project-adam-color {
+    background-color: #de816f !important;
+}
+
+.project-drone-color {
+    background-color: #66798f !important;
+}
+
+.project-shark-color {
+    background-color: #2e8b8b !important;
+}
+
+.project-infinitum-color {
+    background-color: #21303F !important;
+}
+
+.project-fresh-color {
+    background-color: #ec2227 !important;
+}
+
+.project-gdg-color {
+    background-color: #4c8cf5 !important;
+}
+
+.project-moby-color {
+    background-color: #0664a6 !important;
+}
+
+.project-prev-color {
+    background-color: #c5d205 !important;
+}
+
+.project-fx-color {
+    background-color: #df19d4 !important;
+}
+
+.project-appazores-color {
+    background-color: #4981c2 !important;
+}
+
+.project-contact-color {
+    background-color: #ff7a00 !important;
+}
+
+.projectName {
+    font-family: Roboto;
+    font-size: 6em;
+    color: #2d3c49;
+    text-align: center;
+    white-space: normal;
+    word-break: break-all;
+    margin-bottom: 25px;
+}
+
+.projectDescription {
+    font-family: roboto;
+    font-size: 25px;
+    color: #ffffff;
+}
+
+.projectImgDesc {
+    margin-top: 25px;
+}
+
+.projectTitleDesc {
+    color: #2d3c49;
+}
+
+.galleryMargin {
+    margin-bottom: 25px;
+    margin-top: 25px;
+}
+
+.myName {
+    font-family: Roboto;
+    font-size: 10em;
+    color: #2d3c49;
+    text-align: center;
+    white-space: normal;
+    word-break: break-all;
+}
+
+.myRole {
+    font-family: Roboto;
+    font-size: 2em;
+    color: #2d3c49;
+    text-align: center;
+    white-space: normal;
+    word-break: break-all;
+}
+
+.mainCanvas {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+}
+
+.container {
+    width: 100% !important;
+}
+
+@media only screen and (max-width: 414px) {
+    h1 {
+        font-size: 3.5em !important;
+    }
+
+    p {
+        font-size: 20px !important;
+    }
+
+    .projectTitle {
+        font-size: 2.7em !important;
+    }
+
+    .myName {
+        font-size: 7.3em !important;
+    }
+
+    .btn-project {
+        margin: 20px !important;
+    }
+}
+
+@media (min-width: 768px) {
+    .col-sm-6 {
+        margin-top: 5%;
+        margin-bottom: 5%;
+    }
+
+    .myName {
+        font-size: 9em;
+    }
+}
+
+@media (min-width: 1200px) {
+    .projectDescription {
+        padding-right: 125px;
+        padding-left: 125px;
+    }
+}
+
+
+
+.btn-project {
+    width: 175px !important;
+    height: 175px !important;
+    padding: 50px !important;
+    line-height: 1.2 !important;
+    border-radius: 50% !important;
+    outline: none !important;
+    border: 10px solid #7d97ad !important;
+    background-color: #ffffff !important;
+    /* Define Animation */
+    animation: bounceIn 2s infinite alternate-reverse;
+    /*animation: [animation-name] [animation-duration] [animation-timing-function]
+    [animation-delay] [animation-iteration-count] [animation-direction]
+    [animation-fill-mode] [animation-play-state];*/
+}
+
+
+.btn-project-poly {
+    border: 10px solid #5cbb2d !important;
+    overflow: hidden !important;
+}
+
+.btn-project-adam {
+    border: 10px solid #de816f !important;
+}
+
+.btn-project-drone {
+    border: 10px solid #66798f !important;
+}
+
+.btn-project-shark {
+    border: 10px solid #2e8b8b !important;
+}
+
+.btn-project-infinitum {
+    border: 10px solid #21303F !important;
+}
+
+.btn-project-fresh-tomatoes {
+    border: 10px solid #ec2227 !important;
+}
+
+.btn-project-gdg {
+    border: 10px solid #4c8cf5 !important;
+}
+
+.btn-project-moby {
+    border: 10px solid #0664a6 !important;
+}
+
+.btn-project-prevention {
+    border: 10px solid #c5d205 !important;
+}
+
+.btn-project-fx {
+    border: 10px solid #df19d4 !important;
+}
+
+.btn-project-appazores {
+    border: 10px solid #4981c2 !important;
+}
+
+.btn-project-contact-me {
+    border: 10px solid #ff7a00 !important;
+}
+
+
+
+.img-project {
+    position: absolute;
+    left: -15px;
+    top: 0px;
+}
+
+
+.btnPrototypeAnim.poly-color {
+    background-color: #5cbb2d !important;
+}
+
+.btnPrototypeAnim.adam-color {
+    background-color: #de816f !important;
+}
+
+.btnPrototypeAnim.drone-color {
+    background-color: #66798f !important;
+}
+
+.btnPrototypeAnim.shark-color {
+    background-color: #2e8b8b !important;
+}
+
+.btnPrototypeAnim.infinitum-color {
+    background-color: #21303F !important;
+}
+
+.btnPrototypeAnim.fresh-color {
+    background-color: #ec2227 !important;
+}
+
+.btnPrototypeAnim.gdg-color {
+    background-color: #4c8cf5 !important;
+}
+
+.btnPrototypeAnim.moby-color {
+    background-color: #0664a6 !important;
+}
+
+.btnPrototypeAnim.prev-color {
+    background-color: #c5d205 !important;
+}
+
+.btnPrototypeAnim.fx-color {
+    background-color: #df19d4 !important;
+}
+
+.btnPrototypeAnim.appazores-color {
+    background-color: #4981c2 !important;
+}
+
+.btnPrototypeAnim.contact-color {
+    background-color: #ff7a00 !important;
+}
+
+
+.btnPrototypeAnim {
+
+
+    -webkit-transition: all 0.5s ease-in-out;
+    -moz-transition: all 0.5s ease-in-out;
+    -o-transition: all 0.5s ease-in-out;
+    transition: all 0.5s ease-in-out;
+
+    animation: fullScaleOut 2s;
+    overflow: hidden;
+
+
+}
+
+.btnDissapearAnim {
+    animation: dissapearOut 0.2s;
+}
+
+
+@-webkit-keyframes dissapearOut {
+    0% {
+        transform: scale(1)
+    }
+    100% {
+        transform: scale(0)
+    }
+}
+
+
+
+@-webkit-keyframes fullScaleOut {
+    0% {
+        transform: scale(1)
+    }
+    100% {
+        transform: scale(80)
+    }
+}
+
+
+
+
+@keyframes bounceIn {
+    0% {
+        transform: scale(0.5);
+        opacity: 0;
+    }
+    50% {
+        transform: scale(1.2);
+        opacity: 1;
+    }
+    100% {
+        transform: scale(1);
+    }
+}

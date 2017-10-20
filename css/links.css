@@ -1,0 +1,88 @@
+#links {
+    padding-bottom: 32px;
+}
+
+#links .container {
+    text-align: center;
+}
+
+#links ul {
+    list-style-type: none;
+    padding: 0;
+    margin-bottom: 18px;
+}
+
+#links a {
+    color: #282b2d;
+    font-size: 18px;
+}
+
+#links li {
+    display: inline-block;
+    margin: 0px 15px;
+    line-height: 2;
+}
+
+#links .contact-icon {
+    width: 100px !important;
+    height: 100px !important;
+    padding-top: 25px !important;
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+
+#links .link-social {
+    text-align: center;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    background-color: #eee;
+}
+
+#links .fa {
+    font-size: 36px;
+    margin-right: 15px;
+    margin-left: 20px;
+    background-color: white;
+    color: #d0d0d0;
+    border-radius: 51%;
+    padding: 10px;
+    height: 60px;
+    width: 60px;
+    text-align: center;
+    line-height: 43px;
+    text-decoration: none;
+    transition: color 0.2s;
+}
+
+#links .fa-Hover:hover {
+    color: #2d3c49;
+}
+
+#links .fa-Hover:focus {
+    color: #2d3c49;
+}
+
+#links .fa-facebook:hover {
+    color: #2b55ff;
+}
+
+#links .fa-facebook:focus {
+    color: #2b55ff;
+}
+
+#links .fa-google-plus:hover {
+    color: red;
+}
+
+#links .fa-google-plus:focus {
+    color: red;
+}
+
+#links .fa-twitter:hover {
+    color: #00aced;
+
+}
+
+#links .fa-twitter:focus {
+    color: #00aced;
+}
