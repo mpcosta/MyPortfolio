@@ -1,49 +1,49 @@
 .project-polylingual-color {
-    background-color: #5cbb2d !important;
+    background: #5cbb2d !important;
 }
 
 .project-adam-color {
-    background-color: #de816f !important;
+    background: #de816f !important;
 }
 
 .project-drone-color {
-    background-color: #66798f !important;
+    background: #66798f !important;
 }
 
 .project-shark-color {
-    background-color: #2e8b8b !important;
+    background: #2e8b8b !important;
 }
 
 .project-infinitum-color {
-    background-color: #21303F !important;
+    background: #21303F !important;
 }
 
 .project-fresh-color {
-    background-color: #ec2227 !important;
+    background: #ec2227 !important;
 }
 
 .project-gdg-color {
-    background-color: #4c8cf5 !important;
+    background: #4c8cf5 !important;
 }
 
 .project-moby-color {
-    background-color: #0664a6 !important;
+    background: #0664a6 !important;
 }
 
 .project-prev-color {
-    background-color: #c5d205 !important;
+    background: #c5d205 !important;
 }
 
 .project-fx-color {
-    background-color: #df19d4 !important;
+    background: #df19d4 !important;
 }
 
 .project-appazores-color {
-    background-color: #4981c2 !important;
+    background: #4981c2 !important;
 }
 
 .project-contact-color {
-    background-color: #ff7a00 !important;
+    background: #ff7a00 !important;
 }
 
 .projectName {
@@ -59,7 +59,7 @@
 .projectDescription {
     font-family: roboto;
     font-size: 25px;
-    color: #ffffff;
+    color: #fff;
 }
 
 .projectImgDesc {
@@ -215,8 +215,10 @@
 
 .img-project {
     position: absolute;
-    left: -15px;
-    top: 0px;
+    left: -5px;
+    top: 10px;
+    max-width: 100%;
+    height: auto;
 }
 
 
